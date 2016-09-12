@@ -1,0 +1,141 @@
+{
+  "hasNext": false,
+  "items": [
+    {
+      "id": "56e7c12c7f854ab206cd6bd2",
+      "order": 1,
+      "sku": "1",
+      "price": 1,
+      "stock": 6,
+      "soldCount": 0,
+      "specs": {
+        "prices": [
+          2,
+          2
+        ],
+        "stocks": [
+          2,
+          4
+        ],
+        "soldCounts": [
+          8,
+          0
+        ]
+      },
+      "product": {
+        "id": "56c2fe6597137497708b4568",
+        "sku": "1455619652644052",
+        "name": "11111",
+        "type": "reservation",
+        "pictures": [
+          {
+            "name": "huojia",
+            "url": "http://vincenthou.qiniudn.com/db45568754559254ef4b7c7b.png",
+            "size": "0.02"
+          }
+        ],
+        "specifications": [
+          {
+            "id": "fac44c19-f160-41d9-1d5c-5b491786c1b5",
+            "name": "11",
+            "properties": [
+              {
+                "id": "57a840d7-9105-ea66-e635-6e4b2b73e05b",
+                "name": "1"
+              },
+              {
+                "id": "d34f655e-0696-c49a-8566-b9c39a70bdf8",
+                "name": "2"
+              }
+            ]
+          },
+          {
+            "id": "fe6634f8-a658-ffa3-79aa-00595bae0869",
+            "name": "33",
+            "properties": [
+              {
+                "id": "4b522dc2-0089-0a1c-3727-47147396a6c0",
+                "name": "3"
+              },
+              {
+                "id": "dfc3c65e-eb94-c8bc-e4d4-979fb328b5a9",
+                "name": "4"
+              }
+            ]
+          }
+        ]
+      },
+      "shelfId": "56c2fe6597137497708b4568",
+      "createdAt": "2015-07-30 10:54:06",
+      "updatedAt": "2016-03-19 15:00:51"
+    },
+    {
+      "id": "56eb5f45c07260406a37a7b1",
+      "order": 2,
+      "sku": "2",
+      "price": 2,
+      "stock": 8,
+      "soldCount": 0,
+      "specs": {
+        "prices": [
+          2,
+          2
+        ],
+        "stocks": [
+          2,
+          2
+        ],
+        "soldCounts": [
+          0,
+          0
+        ]
+      },
+      "product": {
+        "id": "56c2fe6597137497708b4568",
+        "sku": "1455619652644052",
+        "name": "11111",
+        "type": "reservation",
+        "pictures": [
+          {
+            "name": "huojia",
+            "url": "http://vincenthou.qiniudn.com/db45568754559254ef4b7c7b.png",
+            "size": "0.02"
+          }
+        ],
+        "specifications": [
+          {
+            "id": "fac44c19-f160-41d9-1d5c-5b491786c1b5",
+            "name": "11",
+            "properties": [
+              {
+                "id": "57a840d7-9105-ea66-e635-6e4b2b73e05b",
+                "name": "1"
+              },
+              {
+                "id": "d34f655e-0696-c49a-8566-b9c39a70bdf8",
+                "name": "2"
+              }
+            ]
+          },
+          {
+            "id": "fe6634f8-a658-ffa3-79aa-00595bae0869",
+            "name": "33",
+            "properties": [
+              {
+                "id": "4b522dc2-0089-0a1c-3727-47147396a6c0",
+                "name": "3"
+              },
+              {
+                "id": "dfc3c65e-eb94-c8bc-e4d4-979fb328b5a9",
+                "name": "4"
+              }
+            ]
+          }
+        ]
+      },
+      "shelfId": "56c2fe6597137497708b4568",
+      "createdAt": "2015-07-30 10:54:06",
+      "updatedAt": "2015-07-30 10:54:06"
+    }
+  ]
+}

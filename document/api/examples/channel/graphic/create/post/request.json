@@ -1,0 +1,16 @@
+{
+  "channelId":"5767924fd6f97f437e8b4568",
+  "articles": [
+    {
+      "title": "11",
+      "description": "22",
+      "content": "<p>33</p>",
+      "graphicType": "content",
+      "picUrl": "https://staging.quncrm.com/images/content/default.png",
+      "contentSourceUrl": "",
+      "linkSourceUrl": "",
+      "showContentSourceUrl": false,
+      "showCoverPic": false
+    }
+  ]
+}

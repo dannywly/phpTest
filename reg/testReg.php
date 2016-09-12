@@ -15,7 +15,16 @@
     //使用正则表达式达到替换的效果
     $rep =  ereg_replace('@', '_replace_', $email);
     echo "$rep <br/>";
-    echo md5($email);
+    echo time();
 
-    echo $email;
+    function secreate($acxiomCode)
+    {
+        if (!empty($acxiomCode)) {
+            return md5(md5($acxiomCode . time()) . time());
+        } else {
+            throw new Exception("invalidate acxiom code!", 1);
+        }
+    }
+
+    echo secreate();
  ?>

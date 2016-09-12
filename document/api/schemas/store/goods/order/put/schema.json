@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "orders": {
+      "type": "array",
+      "required": false,
+      "description": "商品Id和order的键值对"
+    }
+  }
+}

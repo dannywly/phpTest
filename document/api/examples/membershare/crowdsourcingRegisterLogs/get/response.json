@@ -1,0 +1,67 @@
+{
+    "items": [
+        {
+            "id": "55360eded6f97f07048b4571",
+            "campaignId": "55360eded6f97f07048b4571",
+            "sharer": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "registrant": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "originFrom": {
+                "openId": "55360eded6f97f07048b4572",
+                "channel": "portal",
+                "channelName": "程序员之家",
+                "origin": "others",
+                "originScene": "程序员之家"
+            },
+            "reward": {
+                "type": "coupon",
+                "value": "优惠券1"
+            },
+            "createdAt": "2015-04-19 16:00:00"
+        },
+        {
+            "id": "55360eded6f97f07048b4571",
+            "campaignId": "55360eded6f97f07048b4571",
+            "sharer": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "registrant": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "originFrom": {
+                "openId": "55360eded6f97f07048b4572",
+                "channel": "portal",
+                "channelName": "程序员之家",
+                "origin": "others",
+                "originScene": "程序员之家"
+            },
+            "reward": {
+                "type": "coupon",
+                "value": "优惠券2"
+            },
+            "createdAt": "2015-04-19 16:00:00"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/product/campaigns?accesstoken=87782eb2-7799-eeb2-cb35-5025648b370e&page=1"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

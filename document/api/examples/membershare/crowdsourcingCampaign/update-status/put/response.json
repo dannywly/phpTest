@@ -1,0 +1,30 @@
+{
+    "message": "OK",
+    "data": {
+        "id": "56cd10c7025f881f048b458f",
+        "name": "众包活动名称",
+        "limitTimes": 2,
+        "shareReward": {
+            "memberCount": 5,
+            "type": "score",
+            "value": "6"
+        },
+        "registerReward": {
+            "type": "coupon",
+            "value": "55fa71d3e9c2fb2b198b4567",
+            "title": "test"
+        },
+        "sharerTags": [
+            "tag1",
+            "tag2"
+        ],
+        "registrantTags": [
+            "tag1",
+            "tag2"
+        ],
+        "isEnabled": false,
+        "startTime": "2016-02-24 10:09:11",
+        "endTime": "2016-02-24 10:09:11",
+        "createdAt": "2016-02-24 10:09:11"
+    }
+}

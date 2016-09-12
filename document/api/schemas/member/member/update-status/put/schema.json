@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "description": "更新member的blocked status， 0(正常), 1(可疑), 2(黑名单)",
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "description": "member id"
+    },
+    "blockedStatus": {
+      "type": "integer",
+      "required": true,
+      "description": "blocked status"
+    }
+  }
+}

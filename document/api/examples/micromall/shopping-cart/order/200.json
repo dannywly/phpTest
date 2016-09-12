@@ -1,0 +1,12 @@
+{
+    "type": "pay",
+    "data": {
+        "timeStamp": "1448739321",
+        "nonceStr": "abcdefg",
+        "package": "prepay_id=fedcba",
+        "appId": "appId",
+        "signType": "MD5",
+        "paySign": "paysign"
+    },
+    "orderId": "56ea306e97137439048b4568"
+}

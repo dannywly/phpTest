@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "channelId": {
+      "type": "string",
+      "required": true,
+      "description": "weconnect channel id"
+    },
+    "openId": {
+      "type": "string",
+      "required": true,
+      "description": "openid"
+    },
+    "specIds": {
+      "type": "string",
+      "required": false,
+      "description": "specifications ids, explode with comma"
+    },
+    "total": {
+        "type": "string",
+        "required": false,
+        "description": "total num"
+    }
+  }
+}

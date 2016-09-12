@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "description": "You should specify at least one field to update.",
+  "properties": {
+    "company": {
+      "type": "string",
+      "required": false,
+      "description": "企业名称"
+    },
+    "name": {
+      "type": "string",
+      "required": false,
+      "description": "联系人姓名"
+    },
+    "phone": {
+      "type": "string",
+      "required": false,
+      "description": "联系人电话"
+    },
+    "smsTopic": {
+      "type": "string",
+      "required": false,
+      "description": "短信签名"
+    },
+    "helpdeskPhone": {
+      "type": "string",
+      "required": false,
+      "description": "客服电话"
+    },
+    "logoUrl": {
+      "type": "string",
+      "required": false,
+      "description": "企业自定义Logo URL"
+    }
+  }
+}

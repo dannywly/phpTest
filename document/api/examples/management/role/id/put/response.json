@@ -1,0 +1,10 @@
+{
+    "id": "57725cf5af831c5b298b456b",
+    "name": "一般用户",
+    "description": "一般用户， 拥有一些基础权限",
+    "permissions": [],
+    "userCount": 0,
+    "createdBy": {
+        "$id": "57512ef1af831cf32d8b456e"
+    }
+}

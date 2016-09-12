@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "578e077e3b72f7771e8b4567",
+      "priority": 1,
+      "target": "tags",
+      "isEnabled": true,
+      "tags": [
+        "帮会个大大会计分录设计稿看过富士康根据的几个都就更快乐的价格"
+      ],
+      "helpdesks": [
+        {
+          "id": "578e077e3b72f7771e8b4567",
+          "email": "11@qq.com"
+        },
+        {
+          "id": "578e077e3b72f7771e8b4568",
+          "email": "22@qq.com"
+        }
+      ],
+      "users": null
+    },
+    {
+      "id": "578e077e3b72f7771e8b4568",
+      "priority": 2,
+      "target": "users",
+      "isEnabled": true,
+      "users": [
+        {
+          "id": "578e077e3b72f7771e8b4567",
+          "name": "11"
+        },
+        {
+          "id": "578e077e3b72f7771e8b4568",
+          "name": "22"
+        }
+      ],
+      "helpdesks": [
+        {
+          "id": "578e077e3b72f7771e8b4567",
+          "email": "11@qq.com"
+        },
+        {
+          "id": "578e077e3b72f7771e8b4568",
+          "email": "22@qq.com"
+        }
+      ],
+      "tags": null
+    },
+    {
+      "id": "578e077e3b72f7771e8b4569",
+      "priority": 3,
+      "target": "tags",
+      "isEnabled": true,
+      "tags": [
+        "酒店组"
+      ],
+      "helpdesks": [
+        {
+          "id": "578e077e3b72f7771e8b4568",
+          "email": "22@qq.com"
+        }
+      ],
+      "users": null
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://wm.com/api/helpdesk/vip-settings?page=1"
+    }
+  },
+  "_meta": {
+    "totalCount": 3,
+    "pageCount": 1,
+    "currentPage": 1,
+    "perPage": 20
+  }
+}

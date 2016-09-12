@@ -1,0 +1,45 @@
+{
+  "id": "56ea306e97137439048b4568",
+  "contact": {
+    "name": "mike",
+    "phone": "131"
+  },
+  "address": {
+    "province": "上海",
+    "city": "浦东"
+  },
+  "deliveryStatus": "undeliver",
+  "channel": {
+    "id": "56713144e4b08ded0f421f39",
+    "origin": "WEIXIN",
+    "name": "mike"
+  },
+  "payStatus": "success",
+  "payMode": "wechat",
+  "expectedAmount": 2,
+  "realAmount": 2,
+  "user": {
+    "channelId": "56713144e4b08ded0f421f39",
+    "openId": "oPdMQt4QNVfqLuQiqGWLA6vte5WM",
+    "memberId": "5678f3c32c3e9936048b456f",
+    "type": "member",
+    "name": "痕无落"
+  },
+  "goods": [
+    {
+      "id": "56e7c12c7f854ab206cd6bd2",
+      "specs": {
+        "propertyIds": "57a840d7-9105-ea66-e635-6e4b2b73e05b,dfc3c65e-eb94-c8bc-e4d4-979fb328b5a9",
+        "description": "1:4"
+      },
+      "total": 2,
+      "price": 1,
+      "name": "11111",
+      "pictures": [
+        "http://vincenthou.qiniudn.com/db45568754559254ef4b7c7b.png"
+      ]
+    }
+  ],
+  "createdAt": "2016-03-17 12:19:58",
+  "updatedAt": "2016-03-17 12:19:58"
+}

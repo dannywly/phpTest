@@ -1,0 +1,47 @@
+{
+    "items": [
+        {
+            "id": "55360eded6f97f07048b4571",
+            "campaignId": "55360eded6f97f07048b4571",
+            "sharer": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "registrantCount": "3",
+            "reward": {
+                "type": "coupon",
+                "value": "优惠券名字",
+                "count": "9"
+            },
+            "createdAt": "2015-04-19 16:00:00"
+        },
+        {
+            "id": "55360eded6f97f07048b4571",
+            "campaignId": "55360eded6f97f07048b4571",
+            "sharer": {
+                "memberId": "55360eded6f97f07048b4571",
+                "memberName": "lydiali",
+                "followerName": "lydiali"
+            },
+            "registrantCount": "3",
+            "reward": {
+                "type": "coupon",
+                "value": "优惠券名字",
+                "count": "9"
+            },
+            "createdAt": "2015-04-19 16:00:00"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/product/campaigns?accesstoken=87782eb2-7799-eeb2-cb35-5025648b370e&page=1"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

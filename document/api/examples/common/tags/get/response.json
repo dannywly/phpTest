@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "id": "54d07c338f5e88e4778b456a",
+            "name": "tag1",
+            "memberCount": 100,
+            "followerCount": 190
+        },
+        {
+            "id": "54d07c338f5e88e4778b456a",
+            "name": "tag2",
+            "memberCount": 100,
+            "followerCount": 190
+        },
+        {
+            "id": "54d07c338f5e88e4778b456a",
+            "name": "tag3",
+            "memberCount": 100,
+            "followerCount": 190
+        },
+        {
+            "id": "54d07c338f5e88e4778b456a",
+            "name": "tag4",
+            "memberCount": 100,
+            "followerCount": 190
+        }
+    ],
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": "1",
+        "perPage": "10"
+    }
+}

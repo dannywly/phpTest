@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "tags": {
+      "type": "array",
+      "required": true,
+      "description": "标签名称"
+    }
+  }
+}

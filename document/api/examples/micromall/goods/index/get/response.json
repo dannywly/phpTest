@@ -1,0 +1,89 @@
+{
+    "items": [
+        {
+            "id": "56ea88f9025f88b75e8b4569",
+            "order": 1,
+            "sku": "1437027006764507",
+            "price": 112,
+            "stock": 24,
+            "soldCount": 0,
+            "specs": {
+                "prices": [
+                    1212,
+                    112
+                ],
+                "stocks": [
+                    14,
+                    10
+                ],
+                "soldCounts": [
+                    0,
+                    0
+                ]
+            },
+            "product": {
+                "id": "55a74acce9c2fb73198b4567",
+                "name": "animal",
+                "type": null,
+                "pictures": [
+                    {
+                        "name": "11",
+                        "url": "http://vincenthou.qiniudn.com/293e0bd452d431a044b81f8e.jpg",
+                        "size": "0.05"
+                    }
+                ]
+            },
+            "shelfId": "55360eded6f97f07048b4571",
+            "createdAt": "2016-03-17 18:37:45",
+            "updatedAt": "2016-03-17 18:37:45"
+        },
+        {
+            "id": "56ea88f9025f88b75e8b4569",
+            "order": 1,
+            "sku": "1437027006764507",
+            "price": 112,
+            "stock": 24,
+            "soldCount": 0,
+            "specs": {
+                "prices": [
+                    1212,
+                    112
+                ],
+                "stocks": [
+                    14,
+                    10
+                ],
+                "soldCounts": [
+                    0,
+                    0
+                ]
+            },
+            "product": {
+                "id": "55a74acce9c2fb73198b4567",
+                "name": "animal",
+                "type": null,
+                "pictures": [
+                    {
+                        "name": "11",
+                        "url": "http://vincenthou.qiniudn.com/293e0bd452d431a044b81f8e.jpg",
+                        "size": "0.05"
+                    }
+                ]
+            },
+            "shelfId": "55360eded6f97f07048b4571",
+            "createdAt": "2016-03-17 18:37:45",
+            "updatedAt": "2016-03-17 18:37:45"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/product/campaigns?accesstoken=87782eb2-7799-eeb2-cb35-5025648b370e&page=1"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

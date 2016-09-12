@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "id": "57884d39af831ce4698b4569",
+            "name": "商品货架1",
+            "isDefault": false,
+            "storeId": "5784890eaf831c15118b4593",
+            "createdAt": "2016-07-15 10:40:57",
+            "updatedAt": "2016-07-15 10:40:57"
+        },
+        {
+            "id": "57884fcbaf831ce0698b456b",
+            "name": "商品货架2",
+            "isDefault": false,
+            "storeId": "5784890eaf831c15118b4593",
+            "createdAt": "2016-07-15 10:51:55",
+            "updatedAt": "2016-07-15 10:51:55"
+        },
+        {
+            "id": "57884fd3af831c476a8b456d",
+            "name": "商品货架3",
+            "isDefault": false,
+            "storeId": "5784890eaf831c15118b4593",
+            "createdAt": "2016-07-15 10:52:03",
+            "updatedAt": "2016-07-15 10:52:03"
+        }
+    ]
+}

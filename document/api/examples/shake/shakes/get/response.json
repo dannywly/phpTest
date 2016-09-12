@@ -1,0 +1,17 @@
+{
+    "id": "562db466d6f97fb5428b4568",
+    "name": "摇红包",
+    "rule": "通过微信手机摇一摇，在指定的时间段内，轻松摇一摇既有机会得到红包。",
+    "poster": "/images/game/shake/poster.png",
+    "pictures": [
+        "/images/game/shake/1.jpeg",
+        "/images/game/shake/2.jpg",
+        "/images/game/shake/3.jpg",
+        "/images/game/shake/4.jpg"
+    ],
+    "url": "http://wm.com/webapp/game/game/shake?id=562db466d6f97fb5428b4568",
+    "setting": null,
+    "isPublished": false,
+    "type": "shake",
+    "qrcodes": []
+}

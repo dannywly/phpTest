@@ -1,0 +1,24 @@
+{
+  "id": "5795b28cd6f97f414a8b4984",
+  "articles": [
+    {
+      "content": "<p><span style=\"color: rgb(28, 28, 28); font-family: Arial, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 20px; background-color: rgb(247, 247, 247);\">&lt;a href=&quot;www.baidu.com&quot;&gt;联系&lt;/a&gt;</span></p>",
+      "graphicType": "content",
+      "picUrl": "https://staging.quncrm.com/images/content/default.png",
+      "showContentSourceUrl": false,
+      "title": "【17号楼Testing】投票",
+      "contentSourceUrl": "",
+      "contentUrl": "http://vincenthou.qiniudn.com/3b469aa1-0cd2-8e7d-abba-de5e14569697.html",
+      "description": "1",
+      "linkSourceUrl": "",
+      "showCoverPic": false,
+      "mediaId": ""
+    }
+  ],
+  "usedCount": 0,
+  "createdAt": "2016-07-25",
+  "updatedAt": "2016-07-26",
+  "isNew": true,
+  "channelId": "57563212e4b030dc636a579c",
+  "type": "single"
+}

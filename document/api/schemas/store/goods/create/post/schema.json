@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "storeId": {
+      "type": "string",
+      "required": true,
+      "description": "门店Id"
+    },
+    "shelfId": {
+      "type": "string",
+      "required": true,
+      "description": "货架Id"
+    },
+    "productId": {
+      "type": "string",
+      "required": true,
+      "description": "商品Id"
+    },
+     "specs": {
+      "type": "array",
+      "required": true,
+      "description": "specsId 为规格属性id用逗号隔开"
+    }
+  }
+}

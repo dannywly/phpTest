@@ -1,0 +1,93 @@
+{
+    "items": [
+        {
+            "id": "56b14bcb13747339248b4568",
+            "gameId": "5618c4ae981bf839f6f2ace3",
+            "player": {
+                "memberId": "56b055ed137473471f8b462f",
+                "memberName": "HarrySun 孙广君",
+                "channelId": "54fd0571e4b055a0030461fb",
+                "origin": "wechat",
+                "channel": {
+                    "id": "55ba09071374735d018b456a",
+                    "channelId": "54fd0571e4b055a0030461fb",
+                    "origin": "wechat",
+                    "name": "群硕测试2",
+                    "type": "SERVICE_AUTH_ACCOUNT",
+                    "status": "enable",
+                    "isTest": false
+                }
+            },
+            "data": {
+                "score": 100
+            },
+            "createdAt": "2016-02-03 08:37:31"
+        },
+        {
+            "id": "56b066d313747310408b4568",
+            "gameId": "5618c4ae981bf839f6f2ace3",
+            "player": {
+                "memberId": "56aead3b137473411f8b4591",
+                "memberName": "Sarah 张瑜",
+                "channelId": "54fd0571e4b055a0030461fb",
+                "origin": "wechat",
+                "channel": {
+                    "id": "55ba09071374735d018b456a",
+                    "channelId": "54fd0571e4b055a0030461fb",
+                    "origin": "wechat",
+                    "name": "群硕测试2",
+                    "type": "SERVICE_AUTH_ACCOUNT",
+                    "status": "enable",
+                    "isTest": false
+                }
+            },
+            "data": {
+                "type":"score",
+                "value":10,
+            },
+            "createdAt": "2016-02-02 16:20:35"
+        },
+        {
+            "id": "56b0622d137473d33a8b4568",
+            "gameId": "5618c4ae981bf839f6f2ace3",
+            "player": {
+                "memberId": "56b05899137473461f8b45ef",
+                "memberName": "Superman",
+                "channelId": "54fd0571e4b055a0030461fb",
+                "origin": "wechat",
+                "channel": {
+                    "id": "55ba09071374735d018b456a",
+                    "channelId": "54fd0571e4b055a0030461fb",
+                    "origin": "wechat",
+                    "name": "群硕测试2",
+                    "type": "SERVICE_AUTH_ACCOUNT",
+                    "status": "enable",
+                    "isTest": false
+                }
+            },
+            "data": {
+                "type":"coupon",
+                "value":1,
+                "name":"coupon name"
+            },
+            "createdAt": "2016-02-02 16:00:45"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "https://staging.quncrm.com/api/game/game-logs?tmoffset=-8&time=1456550630653&endTime=1456588799999&gameId=5618c4ae981bf839f6f2ace3&page=1&per-page=10&startTime=1420041600000"
+        },
+        "next": {
+            "href": "https://staging.quncrm.com/api/game/game-logs?tmoffset=-8&time=1456550630653&endTime=1456588799999&gameId=5618c4ae981bf839f6f2ace3&page=2&per-page=10&startTime=1420041600000"
+        },
+        "last": {
+            "href": "https://staging.quncrm.com/api/game/game-logs?tmoffset=-8&time=1456550630653&endTime=1456588799999&gameId=5618c4ae981bf839f6f2ace3&page=20&per-page=10&startTime=1420041600000"
+        }
+    },
+    "_meta": {
+        "totalCount": 198,
+        "pageCount": 20,
+        "currentPage": 1,
+        "perPage": 10
+    }
+}

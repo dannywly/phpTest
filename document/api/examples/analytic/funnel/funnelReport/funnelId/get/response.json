@@ -1,0 +1,17 @@
+[
+    {
+        "event": "56fcf799ba1b82025b8b46ba",
+        "name" : "login",
+        "count": 0
+    },
+    {
+        "event": "56fcf799ba1b82025b8b46bb",
+        "name" : "coupon",
+        "count": 0
+    },
+    {
+        "event": "56fcf799ba1b82025b8b46bc",
+        "name" : "redeem coupon",
+        "count": 0
+    }
+]

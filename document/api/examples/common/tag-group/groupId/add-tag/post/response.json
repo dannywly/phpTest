@@ -1,0 +1,11 @@
+{
+    "message": "OK",
+    "data": {
+        "id": "54d07c338f5e88e4778b456a",
+        "name": "会员属性",
+        "tags": ["tags1", "tags2"],
+        "isDefault": false,
+        "createdAt": "2015-01-14 16:52:30",
+        "updatedAt": "2015-01-1416: 52: 30"
+    }
+}

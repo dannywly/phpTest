@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "groupId":{
+    	"type": "string",
+    	"required": true,
+    	"description": "The picture belongs to which group"
+    },
+    "ids":{
+      "type": "array",
+      "required": true,
+      "description": "The picture id"
+    }
+  }
+}

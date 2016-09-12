@@ -1,0 +1,35 @@
+{
+    "id": "56e8b8f4d6f97fe7048b4567",
+    "contact": {
+        "name": "xx",
+        "phone": "xx11"
+    },
+    "address": {
+        "province": "1",
+        "city": "2",
+        "district": "3",
+        "detail": "4"
+    },
+    "status": "delivered",
+    "channel": {
+        "id": "55ffaccae4b021332764eec2",
+        "type": "wechat",
+        "name": "sean"
+    },
+    "expectedAmount": 11.1,
+    "realAmount": 10.1,
+    "user": null,
+    "goods": [
+        {
+            "id": "555411b8475df410738b4567",
+            "name": "商品名称",
+            "total": 10,
+            "specs": {
+                "propertyIds": "555411b8475df410738b4567,555411b8475df410738b4567",
+                "description": "description"
+            }
+        }
+    ],
+    "createdAt": "2015-12-28 16:11:35",
+    "updatedAt": "2016-03-16 10:29:05"
+}

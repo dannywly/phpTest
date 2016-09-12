@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "accesstoken": {
+      "type": "string",
+      "required": true,
+      "description": "用户token（放在querystring中）"
+    },
+    "templateType": {
+      "type": "int",
+      "required": false,
+      "description": "货架模板类型"
+    },
+    "name": {
+      "type": "string",
+      "required": false,
+      "description": "货架名称"
+    }
+  }
+}

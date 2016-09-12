@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "accesstoken": {
+      "type": "string",
+      "required": true,
+      "description": "用户token（放在querystring中）"
+    },
+    "specs": {
+      "type": "array",
+      "required": true,
+      "description": "key 为规格属性id用逗号隔开， 值为price"
+    }
+  }
+}

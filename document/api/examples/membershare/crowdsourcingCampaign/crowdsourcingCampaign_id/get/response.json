@@ -1,0 +1,27 @@
+{
+    "id": "56cd10c4025f881f048b4589",
+    "name": "众包活动名称",
+    "limitTimes": 22,
+    "shareReward": {
+        "memberCount": 7,
+        "type": "score",
+        "value": "9"
+    },
+    "registerReward": {
+        "type": "coupon",
+        "value": "55fa71d3e9c2fb2b198b4567",
+        "title": "test"
+    },
+    "sharerTags": [
+        "tag11",
+        "tag22"
+    ],
+    "registrantTags": [
+        "tag111",
+        "tag222"
+    ],
+    "isEnabled": true,
+    "startTime": "2016-02-24 10:09:08",
+    "endTime": "2016-02-24 10:09:08",
+    "createdAt": "2016-02-24 10:09:08"
+}

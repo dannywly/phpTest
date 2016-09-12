@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "description": "shelf name"
+    },
+    "storeId": {
+      "type": "string",
+      "required": true,
+      "description": "store Id"
+    }
+  }
+}

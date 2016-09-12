@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "init-webhook",
+  "type": "object",
+  "properties": {
+    "callback": {
+      "type": "object",
+      "properties": {
+        "secretKey": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      }
+    },
+    "rules": {
+      "type": "array",
+      "description": "please set empty array if you want to remove this webhook config",
+      "items": {
+        "type": "object",
+        "properties": {
+          "platform": {
+            "type": "string",
+            "description": "The platform where event happened, only accepts WECHAT/WECHATCP/WEIBO/ALIPAY/QUNCRM"
+          },
+          "accountId": {
+            "type": "string",
+            "description": "QUNCRM accountId or Weconenct channelId"
+          },
+          "enabledMessages": {
+            "type": "array"
+          },
+          "enabledEvents": {
+            "type": "array"
+          }
+        }
+      }
+    }
+  }
+}

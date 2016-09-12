@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "pictures":{
+      "type": "array",
+      "required": true,
+      "items": {
+        "name": {
+          "type": "string",
+          "required": true,
+          "description": "图片名"
+        },
+        "url": {
+          "type": "string",
+          "required": true,
+          "description": "图片链接"
+        },
+        "size":{
+          "type": "string",
+          "required": true,
+          "description": "The picture size"
+        }
+      }
+    },
+    "groupId":{
+    	"type": "string",
+    	"required": true,
+    	"description": "The picture belongs to which group"
+    }
+  }
+}

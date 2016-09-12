@@ -1,0 +1,29 @@
+{
+    "name": "56fcf799ba1b82025b8b46bf",
+    "steps": [
+        {
+            "event": "scan QR",
+            "selector": {
+                "campaign": {
+                    "eq": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        },
+        {
+            "event": "acquire coupon",
+            "selector": {
+                "campaign": {
+                    "nq": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        },
+        {
+            "event": "redeem coupon",
+            "selector": {
+                "campaign": {
+                    "contains": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        }
+    ]
+}

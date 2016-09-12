@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "id": "555c47ddd6f97f4e438b4568",
+            "name": "一般用户",
+            "description": "一般用户， 拥有一些基础权限",
+            "userCount": 13
+        },
+        {
+            "id": "555c47ddd6f97f4e438b4568",
+            "name": "注册用户",
+            "description": "无任何权限",
+            "userCount": 1
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/management/roles?tmoffset=-8&time=1467023850936&orderBy=%7B%22order%22:%22asc%22%7D&page=1&per-page=10"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 10
+    }
+}

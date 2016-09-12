@@ -1,0 +1,45 @@
+{
+    "items": [
+        {
+            "id": "5795b28cd6f97f414a8b4984",
+            "articles": [
+                {
+                    "content": "<p><span style=\"color: rgb(28, 28, 28); font-family: Arial, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 20px; background-color: rgb(247, 247, 247);\">&lt;a href=&quot;www.baidu.com&quot;&gt;联系&lt;/a&gt;</span></p>",
+                    "graphicType": "content",
+                    "picUrl": "https://staging.quncrm.com/images/content/default.png",
+                    "showContentSourceUrl": false,
+                    "title": "【17号楼Testing】投票",
+                    "contentSourceUrl": "",
+                    "contentUrl": "https://o5wtsnvqp.qnssl.com/4d3bf5ba-ffc3-e853-a945-8fddb396bbda.html",
+                    "description": "",
+                    "linkSourceUrl": "",
+                    "showCoverPic": false,
+                    "mediaId": ""
+                }
+            ],
+            "usedCount": 0,
+            "createdAt": "2016-07-25",
+            "updatedAt": "2016-07-25",
+            "isNew": false,
+            "channelId": "57563212e4b030dc636a579c",
+            "type": "single"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/channel/graphics?channelId=57563212e4b030dc636a579c&page=1"
+        },
+        "next": {
+            "href": "http://wm.com/api/channel/graphics?channelId=57563212e4b030dc636a579c&page=2"
+        },
+        "last": {
+            "href": "http://wm.com/api/channel/graphics?channelId=57563212e4b030dc636a579c&page=59"
+        }
+    },
+    "_meta": {
+        "totalCount": 1170,
+        "pageCount": 59,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "channelId": {
+      "type": "string",
+      "required": true,
+      "description": "The id of wechat channel"
+    },
+    "appId":{
+      "type": "string",
+      "required": true,
+      "description": "The appId of wechat account"
+  },
+    "appSecret":{
+      "type": "string",
+      "required": true,
+      "description": "The appSecret of wechat account"
+    }
+  }
+}

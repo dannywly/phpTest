@@ -1,0 +1,29 @@
+[
+    {
+        "name": {
+            "zh-cn": "xxx",
+            "zh-tw": "xxx",
+            "en-us": "xxx"
+        },
+        "url": "http://wm.com/mobile/product/history?memberId=574b9711025f8819578b4567&channelId=552621b9e4b00231bde18bdb",
+        "icon": "/images/mall/user_center/integralmall_icon.png"
+    },
+    {
+        "name": {
+            "zh-cn": "xxx",
+            "zh-tw": "xxx",
+            "en-us": "xxx"
+        },
+        "url": "http://wm.com/h5/micromall/#!/orders?channelId=552621b9e4b00231bde18bdb&openId=123123123&origin=wechat",
+        "icon": "/images/micromall/user_center/micromall_icon.png"
+    },
+    {
+        "name": {
+            "zh-cn": "xxx",
+            "zh-tw": "xxx",
+            "en-us": "xxx"
+        },
+        "url": "http://wm.com/webapp/reservation/reservation/order/list?memberId=574b9711025f8819578b4567&channelId=552621b9e4b00231bde18bdb",
+        "icon": "/images/reservation/user_center/reservation_icon.png"
+    }
+]

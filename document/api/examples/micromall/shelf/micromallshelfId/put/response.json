@@ -1,0 +1,12 @@
+{
+    "message": "OK",
+    "data": {
+        "id": "55360eded6f97f07048b4571",
+        "name": "双12促销",
+        "templateType": 4,
+        "isDefault": "false",
+        "createdAt": "2015-04-19 16:00:00",
+        "updatedAt": "2015-04-19 16:00:00",
+        "isDeleted": "false"
+    }
+}

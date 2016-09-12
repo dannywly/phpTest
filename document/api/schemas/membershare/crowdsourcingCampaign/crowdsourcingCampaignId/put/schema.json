@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "description": "活动名称name"
+    },
+    "shareReward": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "memberCount": {
+          "type": "int",
+          "required": true,
+          "description": " 奖励设置引导注册会员的数量"
+        },
+        "type": {
+          "type": "string",
+          "required": true,
+          "description": "引导注册奖励 奖励类型score或coupon"
+        },
+        "value": {
+          "type": "string",
+          "required": true,
+          "description": "积分或优惠券Id"
+        }
+      }
+    },
+    "limitTimes": {
+      "type": "int",
+      "required": true,
+      "description": "参与次数限制"
+    },
+    "registerReward": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "type": {
+          "type": "string",
+          "required": true,
+          "description": "新用户注册奖励 奖励类型score或coupon"
+        },
+        "value": {
+          "type": "string",
+          "required": true,
+          "description": "积分或优惠券Id"
+        }
+      }
+    },
+    "sharerTags": {
+      "type": "string",
+      "required": false,
+      "description": "参与分享的标签 example: 'tag1,tag2,...'"
+    },
+    "registrantTags": {
+      "type": "string",
+      "required": false,
+      "description": "新注册用户标签 example: 'tag1,tag2,...'"
+    },
+    "startTime": {
+      "type": "string",
+      "required": true,
+      "description": "活动开始时间"
+    },
+    "endTime": {
+      "type": "string",
+      "required": true,
+      "description": "活动结束时间"
+    }
+  }
+}

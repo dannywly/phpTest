@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "accesstoken": {
+      "type": "string",
+      "required": true,
+      "description": "用户token（放在querystring中）"
+    },
+    "shelfId": {
+      "type": "string",
+      "required": true,
+      "description": "对应货架的Id"
+    },
+    "productId": {
+      "type": "string",
+      "required": true,
+      "description": "商品ID"
+    },
+    "specs": {
+      "type": "array",
+      "required": true,
+      "specsId": {
+        "type": "string",
+        "required": false,
+        "description": "规格属性id的组合 e.g:'规格属性1ID,规格属性2ID，...'"
+      },
+      "prices": {
+        "type": "float",
+        "required": true,
+        "description": "规格组合对应的价格"
+      },
+      "stocks": {
+        "type": "int",
+        "required": true,
+        "description": "规格组合对应的库存"
+      }
+    }
+  }
+}

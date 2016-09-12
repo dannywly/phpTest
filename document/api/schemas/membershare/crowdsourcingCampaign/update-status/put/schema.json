@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "isEnabled": {
+      "type": "boolean",
+      "required": true,
+      "description": "是否开启众包分享 默认为false"
+    }
+  }
+}

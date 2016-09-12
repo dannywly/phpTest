@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "openId": {
+      "type": "string",
+      "required": true,
+      "description": "openId"
+    },
+    "channelId": {
+      "type": "string",
+      "required": true,
+      "description": "weconnect account id"
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "required": true,
+          "description": "The contact name"
+        },
+        "phone": {
+          "type": "string",
+          "required": true,
+          "description": "The contact phone"
+        }
+      }
+    },
+    "address": {
+      "type": "object",
+      "properties": {
+        "province": {
+          "type": "string",
+          "required": true
+        },
+        "city": {
+          "type": "string",
+          "required": true
+        },
+        "district": {
+          "type": "string",
+          "required": true
+        },
+        "detail": {
+          "type": "string",
+          "required": true
+        }
+      }
+    }
+  }
+}

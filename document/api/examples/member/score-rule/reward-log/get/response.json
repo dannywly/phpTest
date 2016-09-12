@@ -1,0 +1,21 @@
+{
+    "id": "551e2cbde9c2fbf90f8b4568",
+    "name": "perfect_information",
+    "score": 10000,
+    "triggerTime": "day",
+    "description": "",
+    "isEnabled": true,
+    "times": 1,
+    "memberCount": 1,
+    "code": null,
+    "limit": null,
+    "isDefault": true,
+    "couponId": "",
+    "rewardType": "score",
+    "properties": [
+        "56663fd8ba2742c0fb4a6a6a"
+    ],
+    "startTime": "",
+    "endTime": "",
+    "isReceived": false
+}

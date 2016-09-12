@@ -1,0 +1,8 @@
+{
+    "name": "一般用户",
+    "description": "一般用户， 拥有一些基础权限",
+    "permissions": {
+        "channel" :["follower", "broadcast"],
+        "content" :["graphics", "webpage", "pictures"]
+    }
+}

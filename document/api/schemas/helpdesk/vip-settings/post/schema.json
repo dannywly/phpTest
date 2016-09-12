@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "target": {
+      "type": "string",
+      "required": true,
+      "description": "指定对象 [users/tags]",
+      "enum": [
+        "users",
+        "tags"
+      ]
+    },
+    "assignee": {
+      "type": "array",
+      "required": false,
+      "description": "当target为users时为member列表, target为tags时则是tag列表",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "member id"
+          },
+          "name": {
+            "type": "string",
+            "description": "member name"
+          }
+        }
+      }
+    },
+    "helpdesks": {
+      "type": "array",
+      "required": true,
+      "description": "被分配的客服",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "helpdesk id"
+          },
+          "email": {
+            "type": "string",
+            "description": "helpdesk email"
+          }
+        }
+      }
+    }
+  }
+}

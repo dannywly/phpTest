@@ -1,0 +1,49 @@
+{
+    "id": "578cb2faaf831c400d8b4577",
+    "storeId": "5784890eaf831c15118b4593",
+    "productId": "57761215af831cd5668b4568",
+    "shelfId": "57884fcbaf831ce0698b456b",
+    "pictures": [
+        "http://vincenthou.qiniudn.com/613c7befbb28f2d71081d018.jpg"
+    ],
+    "specs": {
+        "prices": [
+            20000
+        ]
+    },
+    "categoryName": "",
+    "productName": "1212",
+    "productType": "product",
+    "sku": "1467355651705399",
+    "onSaleSku": "1468838650301668",
+    "price": 20000,
+    "soldCount": 0,
+    "order": 102,
+    "createdAt": "2016-07-18 18:44",
+    "isDeleted": false,
+    "productData": {
+        "id": "57761215af831cd5668b4568",
+        "sku": "1467355651705399",
+        "type": "product",
+        "name": "1212",
+        "pictures": [
+            {
+                "url": "http://vincenthou.qiniudn.com/613c7befbb28f2d71081d018.jpg",
+                "size": "0.04",
+                "name": "firstQr"
+            }
+        ],
+        "category": [],
+        "intro": "",
+        "isAssigned": false,
+        "codeNum": 0,
+        "isSelected": false,
+        "specifications": [],
+        "qrcode": {
+            "id": "57761215af831cfe698b4567",
+            "qiniuKey": "57761215af831cfe698b4567.png",
+            "qrcodeUrl": "http://vincenthou.qiniudn.com/57761215af831cfe698b4567.png"
+        },
+        "isDeleteable": true
+    }
+}

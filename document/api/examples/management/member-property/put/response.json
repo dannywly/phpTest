@@ -1,0 +1,16 @@
+{
+  "message": "ok",
+  "data": {
+    "id": "57a98693af831c81448b456a",
+    "order": 15,
+    "name": "唯一only",
+    "options": null,
+    "type": "input",
+    "defaultValue": "",
+    "isRequired": false,
+    "isUnique": false,
+    "isVisible": true,
+    "isDefault": false,
+    "propertyId": "onlyId"
+  }
+}

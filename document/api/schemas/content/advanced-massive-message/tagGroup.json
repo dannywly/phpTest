@@ -1,0 +1,21 @@
+{
+  "id": "tagGroup",
+  "type": "object",
+  "properties": {
+    "conditions": {
+      "type": "string",
+      "enum": [ "intersection", "subtraction"]
+    },
+    "tags": {
+      "type": "array"
+    },
+    "selectAll": {
+      "type": "boolean"
+    }
+  },
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "required": [
+    "conditions",
+    "tags"
+  ]
+}

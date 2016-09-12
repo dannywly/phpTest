@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "channelId": {
+      "type": "string",
+      "required": true,
+      "description": "渠道id"
+    },
+    "articles": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "title": {
+          "type": "string",
+          "required": true,
+          "description": "文章名称"
+        },
+        "description": {
+          "type": "string",
+          "required": true,
+          "description": "文章描述"
+        },
+        "graphicType": {
+          "type": "string",
+          "required": true,
+          "description": "素材类型"
+        },
+        "picUrl": {
+          "type": "string",
+          "required": true,
+          "description": "图片地址"
+        },
+        "contentSourceUrl": {
+          "type": "string",
+          "required": false,
+          "description": "内容地址"
+        },
+        "linkSourceUrl": {
+          "type": "string",
+          "required": false,
+          "description": "链接地址"
+        },
+        "showCoverPic": {
+          "type": "string",
+          "required": false,
+          "description": "是否展示封面"
+        }
+      },
+      "description": "文章内容"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "channelId": {
+      "type": "string",
+      "required": true
+    },
+    "mainGraphic": {
+      "type": "array",
+      "required": true,
+      "items": [
+        "userQuery",
+        "article"
+      ]
+    },
+    "subGraphic": {
+      "type": "array",
+      "required": true,
+      "items": [
+        "userQuery",
+        "articles"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "message": "OK",
+    "data": {
+        "id": "5788ad5aaf831c476a8b4575",
+        "storeId": "5784890eaf831c15118b4593",
+        "productId": "576cf2a5af831c68678b4567",
+        "shelfId": "57884fcbaf831ce0698b456b",
+        "pictures": [
+            {
+                "url": "http://vincenthou.qiniudn.com/407aae655c7486dee5e27b5e.png",
+                "size": "0.01",
+                "name": "默认货架_微信_群硕测试2_8cm"
+            }
+        ],
+        "specs": {
+            "prices": [
+                10000,
+                20000,
+                30000,
+                40000
+            ]
+        },
+        "categoryName": "",
+        "productName": "美国小龙虾",
+        "productType": "product",
+        "sku": "1233",
+        "onSaleSku": "1468575066327630",
+        "price": 10000,
+        "soldCount": 0,
+        "order": 10,
+        "createdAt": "2016-07-15 17:31",
+        "isDeleted": false
+    }
+}

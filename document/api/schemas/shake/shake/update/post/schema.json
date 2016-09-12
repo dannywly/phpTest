@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "accesstoken": {
+      "type": "string",
+      "required": true,
+      "description": "用户token"
+    },
+    "id": {
+      "type": "string",
+      "required": true,
+      "description": "游戏ID"
+    },
+    "rule": {
+      "type": "string",
+      "required": true,
+      "description": "游戏规则"
+    },
+    "setting": {
+      "type": "array",
+      "required": true,
+      "description": "设置条件"
+    }
+  }
+}

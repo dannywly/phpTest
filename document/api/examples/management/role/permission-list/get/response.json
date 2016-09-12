@@ -1,0 +1,362 @@
+{
+    "menus": {
+        "content": [
+            {
+                "order": 1,
+                "title": "graphics_content",
+                "name": "graphics",
+                "state": "content-graphics"
+            },
+            {
+                "order": 2,
+                "title": "webpage_content",
+                "name": "webpage",
+                "state": "microsite-webpage"
+            },
+            {
+                "order": 3,
+                "title": "pictures_content",
+                "name": "pictures",
+                "state": "content-pictures"
+            },
+            {
+                "order": 4,
+                "title": "questionnaire",
+                "name": "questionnaire",
+                "state": "content-questionnaire"
+            }
+        ],
+        "analytic": [
+            {
+                "order": 1,
+                "title": "analytic_followers_growth",
+                "name": "growth",
+                "state": "analytic-growth"
+            },
+            {
+                "order": 2,
+                "title": "analytic_followers_property",
+                "name": "property",
+                "state": "analytic-property"
+            },
+            {
+                "order": 3,
+                "title": "analytic_content_spread",
+                "name": "content",
+                "state": "analytic-content"
+            },
+            {
+                "order": 4,
+                "title": "member_analytic",
+                "name": "statmember",
+                "state": "member-analytic"
+            },
+            {
+                "order": 5,
+                "title": "analytic_store",
+                "name": "store",
+                "state": "analytic-store"
+            }
+        ],
+        "management": [
+            {
+                "order": 1,
+                "title": "user_management",
+                "name": "user",
+                "state": "management-user"
+            },
+            {
+                "order": 2,
+                "title": "sensitive_management",
+                "name": "sensitive",
+                "state": "management-sensitive"
+            },
+            {
+                "order": 3,
+                "title": "channel_management",
+                "name": "channel",
+                "state": "management-channel"
+            },
+            {
+                "order": 4,
+                "title": "store_management",
+                "name": "store",
+                "state": "management-store"
+            },
+            {
+                "order": 5,
+                "title": "customer_property",
+                "name": "attribute",
+                "state": "management-setting"
+            },
+            {
+                "order": 6,
+                "title": "extension_management",
+                "name": "extension",
+                "state": "management-extension"
+            },
+            {
+                "order": 7,
+                "title": "enterprise_management",
+                "name": "enterprise",
+                "state": "management-enterprise"
+            },
+            {
+                "order": 8,
+                "title": "token_management",
+                "name": "token",
+                "state": "management-token"
+            },
+            {
+                "order": 9,
+                "title": "score_management",
+                "name": "score",
+                "state": "management-score"
+            }
+        ],
+        "channel": [
+            {
+                "order": 1,
+                "title": "follower_management",
+                "name": "follower",
+                "state": "channel-follower"
+            },
+            {
+                "order": 2,
+                "title": "broadcast",
+                "name": "broadcast",
+                "state": "channel-broadcast"
+            },
+            {
+                "order": 3,
+                "title": "interactive_messages",
+                "name": "interaction",
+                "state": "channel-interaction"
+            },
+            {
+                "order": 4,
+                "title": "customized_menus",
+                "name": "menu",
+                "state": "channel-menu"
+            },
+            {
+                "order": 5,
+                "title": "auto_reply",
+                "name": "autoreply",
+                "state": "channel-autoreply"
+            },
+            {
+                "order": 6,
+                "title": "promotion_qrcode",
+                "name": "qrcode",
+                "state": "channel-qrcode"
+            },
+            {
+                "order": 7,
+                "title": "channel_payment",
+                "name": "channelpayment",
+                "state": "channel-payment"
+            }
+        ],
+        "store": [
+            {
+                "order": 1,
+                "title": "store_info",
+                "name": "storeinfo",
+                "state": "store-info"
+            },
+            {
+                "order": 2,
+                "title": "order_management",
+                "name": "ordermanagement",
+                "state": "store-order"
+            },
+            {
+                "order": 3,
+                "title": "goods_shelf",
+                "name": "shelf",
+                "state": "store-shelf"
+            },
+            {
+                "order": 4,
+                "title": "staff_management",
+                "name": "staff",
+                "state": "store-staff"
+            }
+        ],
+        "member": [
+            {
+                "order": 1,
+                "title": "member_management",
+                "name": "member",
+                "state": "member-member"
+            },
+            {
+                "order": 2,
+                "title": "member_card",
+                "name": "card",
+                "state": "member-card"
+            },
+            {
+                "order": 3,
+                "title": "member_incentive",
+                "name": "memberincentive",
+                "state": "member-memberincentive"
+            }
+        ],
+        "product": [
+            {
+                "order": 1,
+                "title": "product_management",
+                "name": "product",
+                "icon": "product",
+                "state": "product-product"
+            },
+            {
+                "order": 2,
+                "title": "promotion_code",
+                "name": "promotion",
+                "icon": "promotion",
+                "state": "product-promotion"
+            },
+            {
+                "order": 3,
+                "title": "product_setting",
+                "name": "setting",
+                "icon": "setting",
+                "state": "product-setting"
+            }
+        ],
+        "helpdesk": [
+            {
+                "order": 1,
+                "title": "helpdesk_analytic",
+                "name": "analytics",
+                "state": "helpdesk-analytic"
+            },
+            {
+                "order": 2,
+                "title": "helpdesk_account",
+                "name": "helpdesk",
+                "state": "helpdesk-helpdesk"
+            },
+            {
+                "order": 3,
+                "title": "wiki",
+                "name": "wiki",
+                "state": "helpdesk-wiki"
+            },
+            {
+                "order": 4,
+                "title": "helpdesk_self_service",
+                "name": "helpdeskselfservice",
+                "state": "helpdesk-helpdeskselfservice"
+            },
+            {
+                "order": 5,
+                "title": "session_management",
+                "name": "session",
+                "state": "helpdesk-session"
+            },
+            {
+                "order": 6,
+                "title": "helpdesk_vip",
+                "name": "helpdeskvip",
+                "state": "helpdesk-helpdeskvip"
+            },
+            {
+                "order": 7,
+                "title": "helpdesk_settings",
+                "name": "setting",
+                "state": "helpdesk-setting"
+            },
+            {
+                "order": 8,
+                "title": "helpdesk_login_chat_system",
+                "name": "login",
+                "link": "/chat/login",
+                "class": "btn-helpdesk-login btn-success",
+                "centered": true
+            }
+        ],
+        "mall": [
+            {
+                "order": 1,
+                "title": "shelf_management",
+                "name": "layout",
+                "icon": "layout",
+                "state": "mall-goods"
+            },
+            {
+                "order": 2,
+                "title": "offline_exchange",
+                "name": "offline",
+                "icon": "offline",
+                "state": "mall-offline"
+            },
+            {
+                "order": 3,
+                "title": "mall_redemption",
+                "name": "redemption",
+                "icon": "redemption",
+                "state": "mall-redemption"
+            }
+        ],
+        "marketing": [
+            {
+                "order": 1,
+                "title": "product_coupon",
+                "name": "coupon",
+                "icon": "coupon",
+                "state": "marketing-coupon"
+            }
+        ]
+    },
+    "mods": [
+        {
+            "name": "channel",
+            "isCore": true,
+            "order": 1
+        },
+        {
+            "name": "member",
+            "isCore": true,
+            "order": 2
+        },
+        {
+            "name": "content",
+            "isCore": true,
+            "order": 3
+        },
+        {
+            "name": "helpdesk",
+            "isCore": false,
+            "order": 4
+        },
+        {
+            "name": "product",
+            "isCore": true,
+            "order": 5
+        },
+        {
+            "name": "analytic",
+            "isCore": true,
+            "order": 6
+        },
+        {
+            "name": "store",
+            "isCore": true,
+            "order": 7
+        },
+        {
+            "name": "mall",
+            "isCore": false,
+            "order": 8
+        },
+        {
+            "name": "marketing",
+            "isCore": false,
+            "order": 9
+        }
+    ]
+}

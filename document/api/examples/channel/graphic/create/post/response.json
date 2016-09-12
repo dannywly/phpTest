@@ -1,0 +1,24 @@
+{
+  "id": "5790688b5b552942368b4567",
+  "channelId":"5767924fd6f97f437e8b4568",
+  "articles": [
+    {
+      "title": "11",
+      "description": "22",
+      "content": "<p>33</p>",
+      "graphicType": "content",
+      "mediaId": "",
+      "picUrl": "https://staging.quncrm.com/images/content/default.png",
+      "contentSourceUrl": "",
+      "linkSourceUrl": "",
+      "showContentSourceUrl": false,
+      "showCoverPic": false,
+      "contentUrl": "https://o5wtsnvqp.qnssl.com/62e58bd8-ff4d-ee12-a485-5729b19f2126.html"
+    }
+  ],
+  "usedCount": 0,
+  "createdAt": "2016-07-21",
+  "updatedAt": "2016-07-21",
+  "type":"single",
+  "isNew": true,
+}

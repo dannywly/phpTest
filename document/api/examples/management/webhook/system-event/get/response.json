@@ -1,0 +1,154 @@
+[
+  {
+    "platform": "maiscrm:mall",
+    "module": "mall",
+    "events": [
+      {
+        "type": "productRedeemed",
+        "description": "Id can be store ID or wechat social channel ID, social field indicates the social origin for redeeming the products.",
+        "sample": {
+          "type": "event",
+          "channel": {
+            "id": "54d8525f0cf2b6e3041e124b",
+            "name": "MaiSCRM",
+            "type": "online|offline",
+            "social": "wechat"
+          },
+          "data": {
+            "type": "product_redeemed",
+            "member_id": "55b08c0013747386358b4577",
+            "products": [
+              {
+                "id": "55c1940ed6f97f74238b456c",
+                "count": 1
+              }
+            ],
+            "address": "shanghai",
+            "postcode": "24234",
+            "used_score": 100,
+            "account_id": "54bf3b4c13747372268b4567",
+            "created_at": "2015-07-23T14:38:56+08:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "platform": "maiscrm:marketing",
+    "module": "marketing",
+    "events": [
+      {
+        "type": "couponRedeemed",
+        "description": "Id is the store ID, name is the store name, type value will always be offline for store, social field indicates the social origin for redeeming the coupon. When failed, failure message will be added to redeem_notes",
+        "sample": {
+          "type": "event",
+          "channel": {
+            "id": "54d8525f0cf2b6e3041e124b",
+            "name": "Store name",
+            "type": "offline",
+            "social": ""
+          },
+          "data": {
+            "type": "coupon_redeemed",
+            "member_id": "55b08c0013747386358b4577",
+            "staff_id": "5fb08c0013747386358b4578",
+            "coupon_id": "5ffb08c00er37386358b457",
+            "account_id": "54bf3b4c13747372268b4567",
+            "redeem_status": "success|fail",
+            "redeem_notes": "",
+            "created_at": "2015-07-23T14:38:56+08:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "platform": "maiscrm:member",
+    "module": "member",
+    "events": [
+      {
+        "type": "memberCreated",
+        "description": "Type value will always be online, social field indicates the social origin for getting the member.",
+        "sample": {
+          "type": "event",
+          "channel": {
+            "id": "54d8525f0cf2b6e3041e124b",
+            "name": "MaiSCRM",
+            "type": "online",
+            "social": "wechat"
+          },
+          "data": {
+            "type": "member_created",
+            "member_id": "55b08c0013747386358b4577",
+            "account_id": "54bf3b4c13747372268b4567",
+            "phone": "158964523645",
+            "is_activated": true,
+            "created_at": "2015-07-23T14:38:56+08:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "platform": "maiscrm:product",
+    "module": "product",
+    "events": [
+      {
+        "type": "promotionCodeRedeemed",
+        "description": "Type can be offline or online, social field indicates the social origin for redeeming the promotion codes.",
+        "sample": {
+          "type": "event",
+          "channel": {
+            "id": "54d8525f0cf2b6e3041e124b",
+            "name": "MaiSCRM",
+            "type": "online",
+            "social": "wechat"
+          },
+          "data": {
+            "type": "promotion_code_redeemed",
+            "member_id": "55b08c0013747386358b4577",
+            "codes": [
+              "54bf3b4c13747372268b4567",
+              "44bf3b4c13747372468b2561"
+            ],
+            "redeemed_codes": [
+              "54bf3b4c13747372268b4567",
+              "44bf3b4c13747372468b2561"
+            ],
+            "score": 100,
+            "account_id": "54bf3b4c13747372268b4567",
+            "created_at": "2015-07-23T14:38:56+08:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "platform": "maiscrm:store",
+    "module": "store",
+    "events": [
+      {
+        "type": "staffCreated",
+        "description": "Id is the store ID, name is the store name, type value will always be offline for store, social field indicates the social origin for generating the staff.",
+        "sample": {
+          "type": "event",
+          "channel": {
+            "id": "54d8525f0cf2b6e3041e124b",
+            "name": "MaiSCRM",
+            "type": "offline",
+            "social": "portal"
+          },
+          "data": {
+            "type": "staff_created",
+            "staff_id": "55b08c0013747386358b4577",
+            "account_id": "54bf3b4c13747372268b4567",
+            "phone": "158964523645",
+            "badge": "sh123",
+            "qr_code_url": "https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQHD8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL2ZYV05uaUhrYkVRVlkyMmtPbGtnAAIEtDiXVwMEAAAAAA==",
+            "created_at": "2015-07-23T14:38:56+08:00"
+          }
+        }
+      }
+    ]
+  }
+]

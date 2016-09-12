@@ -1,0 +1,16 @@
+{
+  "target": "tags",
+  "assignee": [
+    "创建规则"
+  ],
+  "helpdesks": [
+    {
+        "id": "578e077e3b72f7771e8b4567",
+        "email": "11@qq.com"
+    },
+    {
+        "id": "578e077e3b72f7771e8b4568",
+        "email": "22@qq.com"
+    }
+  ]
+}

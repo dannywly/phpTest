@@ -1,0 +1,20 @@
+{
+    "specs": [
+        {
+            "specsId": "d6d453e3-b203-aa5f-81b8-c208c63ad094,dad4a484-19b9-4b28-c497-bf4d8ef5de4e",
+            "prices": 100
+        },
+        {
+            "specsId": "d6d453e3-b203-aa5f-81b8-c208c63ad094,8f9bea29-5df2-8b53-a905-e1121edbb37a",
+            "prices": 200
+        },
+        {
+            "specsId": "b70e01a6-0cea-4856-9465-f1232b4db56d,dad4a484-19b9-4b28-c497-bf4d8ef5de4e",
+            "prices": 300
+        },
+        {
+            "specsId": "b70e01a6-0cea-4856-9465-f1232b4db56d,8f9bea29-5df2-8b53-a905-e1121edbb37a",
+            "prices": 400
+        }
+    ]
+}

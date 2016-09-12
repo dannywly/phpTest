@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "56a5dcf297137454048b456a",
+      "name": "study",
+      "isDefault": false
+    },
+    {
+      "id": "56a5dc9a97137455048b456b",
+      "name": "beauty",
+      "isDefault": false
+    },
+    {
+      "id": "56a5dc92971374a6368b4569",
+      "name": "travel",
+      "isDefault": false
+    },
+    {
+      "id": "56a5cfdb97137454048b4568",
+      "name": "nogroup",
+      "isDefault": true
+    }
+  ]
+}

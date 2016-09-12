@@ -1,0 +1,118 @@
+{
+    "items": [
+        {
+            "id": "57761215af831cd5668b4568",
+            "sku": "1467355651705399",
+            "type": "product",
+            "name": "1212",
+            "pictures": [
+                {
+                    "url": "http://vincenthou.qiniudn.com/613c7befbb28f2d71081d018.jpg",
+                    "size": "0.04",
+                    "name": "firstQr"
+                }
+            ],
+            "category": [],
+            "intro": "",
+            "isAssigned": false,
+            "codeNum": 0,
+            "isSelected": false,
+            "specifications": [],
+            "qrcode": {
+                "id": "57761215af831cfe698b4567",
+                "qiniuKey": "57761215af831cfe698b4567.png",
+                "qrcodeUrl": "http://vincenthou.qiniudn.com/57761215af831cfe698b4567.png"
+            },
+            "isDeleteable": true,
+            "isStoreShelfGoods": true
+        },
+        {
+            "id": "576cf2a5af831c68678b4567",
+            "sku": "123333",
+            "type": "product",
+            "name": "美国小龙虾",
+            "pictures": [
+                {
+                    "url": "http://vincenthou.qiniudn.com/407aae655c7486dee5e27b5e.png",
+                    "size": "0.01",
+                    "name": "默认货架_微信_群硕测试2_8cm"
+                }
+            ],
+            "category": [],
+            "intro": "",
+            "isAssigned": false,
+            "codeNum": 0,
+            "isSelected": true,
+            "specifications": [
+                {
+                    "id": "82f04f7c-5459-edc1-5d9c-a7291c92b7c4",
+                    "name": "尺寸",
+                    "properties": [
+                        {
+                            "id": "8f9bea29-5df2-8b53-a905-e1121edbb37a",
+                            "name": "L"
+                        },
+                        {
+                            "id": "1f927a1e-d8fd-0824-894b-c7726f8b6e56",
+                            "name": "X"
+                        }
+                    ]
+                },
+                {
+                    "id": "7959f196-42fa-76f9-51c2-959708a51f6f",
+                    "name": "颜色",
+                    "properties": [
+                        {
+                            "id": "6266ae7b-f99f-7de5-a7da-337a8472ebca",
+                            "name": "蓝"
+                        },
+                        {
+                            "id": "26c411be-1809-bc9b-a991-3d2568b27434",
+                            "name": "红"
+                        },
+                        {
+                            "id": "6bbe0134-ddba-23b8-63bb-946be0fad2af",
+                            "name": "绿"
+                        }
+                    ]
+                },
+                {
+                    "id": "23cf7608-9eec-b697-3dd3-f7d6f383af63",
+                    "name": "材质",
+                    "properties": [
+                        {
+                            "id": "8b646359-9250-5e30-67bc-50fee7e871b4",
+                            "name": "羊毛"
+                        },
+                        {
+                            "id": "f8b1da2b-e2e7-34a3-a87c-4072d706bad2",
+                            "name": "猪毛"
+                        },
+                        {
+                            "id": "df0fa5d9-ebec-9341-2a32-1fc33b9da794",
+                            "name": "猴毛"
+                        }
+                    ]
+                }
+            ],
+            "qrcode": {
+                "id": "576cf2a5af831c26028b4567",
+                "qiniuKey": "576cf2a5af831c26028b4567.png",
+                "qrcodeUrl": "http://vincenthou.qiniudn.com/576cf2a5af831c26028b4567.png"
+            },
+            "isDeleteable": false,
+            "isStoreShelfGoods": true
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/store/goods/products?shelfId=57907c2aaf831cf2068b4568&page=1"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

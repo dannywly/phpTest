@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "userQuery": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "$ref": "tagGroup"
+      }
+    },
+    "articles": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "$ref": "article"
+      }
+    }
+  },
+  "required": [
+    "userQuery",
+    "articles"
+  ]
+}

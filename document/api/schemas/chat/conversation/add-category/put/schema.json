@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "conversationId": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "type": "object",
+      "required": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "The main category id"
+        },
+        "name": {
+          "type": "string",
+          "description": "The main category name"
+        },
+        "subId": {
+          "type": "string",
+          "description": "The sub category id"
+        },
+        "subName": {
+          "type": "string",
+          "description": "The sub category name"
+        }
+      }
+    }
+  }
+}

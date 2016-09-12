@@ -1,0 +1,45 @@
+{
+    "items": [
+        {
+            "id": "5774ce3acdc1f522bd5e5bbb",
+            "createdAt": "2016-06-30 15:46:02",
+            "appId": "574ec6632d881cb4128b4567",
+            "name": "56fcf799ba1b82025b8b46cc",
+            "state": 0,
+            "steps": [
+                {
+                    "event": "56fcf799ba1b82025b8b46ba",
+                    "name": "login",
+                    "selector": {
+                        "campaign": {
+                            "eq": "56fcf799ba1b82025b8b46bf"
+                        }
+                    }
+                },
+                {
+                    "event": "56fcf799ba1b82025b8b46bb",
+                    "name": "pay",
+                    "selector": {
+                        "campaign": {
+                            "nq": "56fcf799ba1b82025b8b46bf"
+                        }
+                    }
+                },
+                {
+                    "event": "56fcf799ba1b82025b8b46bc",
+                    "name": "logout",
+                    "selector": {
+                        "campaign": {
+                            "contains": "56fcf799ba1b82025b8b46bf"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "_meta": {
+        "pageCount": 3,
+        "currentPage": 20,
+        "perPage": 1
+    }
+}

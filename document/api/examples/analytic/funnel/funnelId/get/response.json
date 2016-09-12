@@ -1,0 +1,35 @@
+{
+    "id": "16fcf799ba1b82025b8b46b2",
+    "appId": "56c115ee4cd2879b048b4567",
+    "name": "56fcf799ba1b82025b8b46bf",
+    "steps": [
+        {
+            "event": "56fcf799ba1b82025b8b46ba",
+            "name": "login",
+            "selector": {
+                "campaign": {
+                    "eq": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        },
+        {
+            "event": "56fcf799ba1b82025b8b46bb",
+            "name": "coupon",
+            "selector": {
+                "campaign": {
+                    "nq": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        },
+        {
+            "event": "56fcf799ba1b82025b8b46bc",
+            "name": "redeem coupon",
+            "selector": {
+                "campaign": {
+                    "contains": "56fcf799ba1b82025b8b46bf"
+                }
+            }
+        }
+    ],
+    createdAt: "2016-03-02 10:00:00"
+}

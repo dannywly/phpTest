@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "openId": "55360eded6f97f07048b4572",
+            "channel": "55360eded6f97f07048b4572",
+            "channelName": "群硕测试2",
+            "origin": "wechat",
+            "originScene": "qrscene_796"
+        },
+        {
+            "openId": "",
+            "channel": "",
+            "channelName": "",
+            "origin": "others",
+            "originScene": "程序员之家"
+        }
+    ]
+}

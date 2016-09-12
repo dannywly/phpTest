@@ -1,0 +1,17 @@
+{
+  "user": {
+    "id": "5773842b0978591e348b4567",
+    "name": null,
+    "email": "iqixing00005@163.com",
+    "role": {
+      "id": "54bf3b4c13747372268b4568",
+      "name": "超级管理员"
+    },
+    "nickname": null,
+    "avatar": "https://cdn.quncrm.com/image_hover_default_avatar.png",
+    "language": null,
+    "isActivated": false,
+    "isOwner": false,
+    "userList": null
+  }
+}

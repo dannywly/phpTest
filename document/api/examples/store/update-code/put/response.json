@@ -1,0 +1,30 @@
+{
+    "id": "56a6c79cd6f97f5b288b4567",
+    "name": "１１１",
+    "branchName": "２２２２",
+    "type": "美食",
+    "subtype": "江浙菜",
+    "telephone": "125487523651",
+    "location": {
+        "province": "上海市",
+        "city": "杨浦区",
+        "detail": "1",
+        "district": "控江路街道"
+    },
+    "position": {
+        "longitude": 118.989291,
+        "latitude": 26.921562
+    },
+    "image": "http://vincenthou.qiniudn.com/0bbc854398048e61dd80542b.jpg",
+    "businessHours": "12",
+    "description": "44",
+    "wechat": {
+        "channelId": "54d9c155e4b0abe717853ee1",
+        "qrcodeId": "56ab3344e4b0a6ba36b365fe",
+        "qrcode": "https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQHJ8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xLzMwanNVcTdtTHBsWC1QM1ZGMlRQAAIERDOrVgMEAAAAAA=="
+    },
+    "weibo": null,
+    "alipay": null,
+    "mapLink": null,
+    "code": "geqm"
+}

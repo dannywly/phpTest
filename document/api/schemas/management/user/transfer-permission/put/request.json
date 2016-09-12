@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "user-permission-transfer",
+  "type": "object",
+  "properties": {
+    "ownerId": {
+      "type": "string"
+    },
+    "receiverId": {
+      "type": "string"
+    },
+    "isDelete": {
+      "type": "boolean"
+    },
+    "roleId": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "ownerId",
+    "receiverId"
+  ]
+}

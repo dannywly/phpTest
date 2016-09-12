@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "id": "54d07c338f5e88e4778b456a",
+            "name": "default_tag_group_name",
+            "tags": [
+                "tag1",
+                "tag2"
+            ],
+            "isDefault": true,
+            "createdAt": "2015-01-14 16:52:30",
+            "updatedAt": "2015-01-1416: 52: 30"
+        },
+        {
+            "id": "54d07c338f5e88e4778b451a",
+            "name": "会员属性",
+            "tags": [
+                "tag1",
+                "tag2"
+            ],
+            "isDefault": false,
+            "createdAt": "2015-01-14 16:52:30",
+            "updatedAt": "2015-01-1416: 52: 30"
+        },
+        {
+            "id": "54d07c338f5e88e4778b452a",
+            "name": "会员属性",
+            "tags": [
+                "tag1",
+                "tag2"
+            ],
+            "isDefault": false,
+            "createdAt": "2015-01-14 16:52:30",
+            "updatedAt": "2015-01-1416: 52: 30"
+        },
+        {
+            "id": "54d07c338f5e88e4778b453a",
+            "name": "会员属性",
+            "tags": [
+                "tag1",
+                "tag2"
+            ],
+            "isDefault": false,
+            "createdAt": "2015-01-14 16:52:30",
+            "updatedAt": "2015-01-1416: 52: 30"
+        }
+    ],
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 1,
+        "currentPage": "1",
+        "perPage": "10"
+    }
+}

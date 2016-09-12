@@ -1,0 +1,14 @@
+{
+    "id": "555c47ddd6f97f4e438b4568",
+    "name": "一般用户",
+    "description": "一般用户， 拥有一些基础权限",
+    "permissions": {
+    "channel" :["follower", "broadcast"],
+        "content" :["graphics", "webpage", "pictures"]
+    },
+    "userCount": 13,
+    "accountId": "5518bfadd6f97f41048b487",
+    "createdBy": "5518bfadd6f97f41048b467",         
+    "createdAt": "2015-05-20 16:37:49",
+    "updatedAt": "2015-05-20 16:37:49"
+}

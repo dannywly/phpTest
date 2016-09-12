@@ -1,0 +1,59 @@
+{
+  "mainGraphic": [
+    {
+      "userQuery": [
+        {
+          "condition": "intersection",
+          "tags": [
+            [
+              "VIP"
+            ],
+            [
+              "VIP"
+            ]
+          ],
+          "selectAll": true
+        }
+      ],
+      "article": {
+        "title": "１１１１",
+        "picUrl": "http://vincenthou.qiniudn.com/55fa82f7e7c9b265852ae520.png",
+        "description": "１１１１１",
+        "content": "<p>１１１１</p>",
+        "contentSourceUrl": "",
+        "linkSourceUrl": "",
+        "contentUrl": "",
+        "showCoverPic": true
+      }
+    }
+  ],
+  "subGraphic": [
+    {
+      "userQuery": [
+        {
+          "condition": "intersection",
+          "tags": [
+            [],
+            [
+              "mike"
+            ]
+          ],
+          "selectAll": true
+        }
+      ],
+      "articles": [
+        {
+          "title": "２２２２",
+          "picUrl": "http://vincenthou.qiniudn.com/586205256c378b0c24edd217.png",
+          "description": "２２２２",
+          "content": "<p>２２２２２</p>",
+          "contentSourceUrl": "",
+          "linkSourceUrl": "",
+          "contentUrl": "",
+          "showCoverPic": false
+        }
+      ]
+    }
+  ],
+  "channelId": "56713144e4b08ded0f421f39"
+}

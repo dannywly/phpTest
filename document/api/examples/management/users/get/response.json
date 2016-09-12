@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Judy好美",
+    "email": "damon_1412@sina.com",
+    "id": "54bf3b4c13747372268b4568",
+    "role": {
+      "id": "54bf3b4c13747372268b4568",
+      "name": "超级管理员"
+    },
+    "isActivated": true,
+    "isOwner": false,
+    "avatar": "https://dn-quncrm.qbox.me/0e07066c4e443afc55d0cf9a.jpg"
+  },
+  {
+    "name": "vincent",
+    "email": "iqixing00002@163.com",
+    "id": "54bf3c6813747370268b4568",
+    "role": {
+      "id": "54bf3b4c13747372268b4568",
+      "name": "超级管理员"
+    },
+    "isActivated": true,
+    "isOwner": false,
+    "avatar": "https://dn-quncrm.qbox.me/566e3f7c470fb3e917aad88b.png"
+  },
+  {
+    "name": "PQ ops",
+    "email": "pq.ops@ajinga.com",
+    "id": "5722c980598aad3d268b4581",
+    "role": {},
+    "isActivated": true,
+    "isOwner": true,
+    "avatar": "/images/management/image_hover_default_avatar.png"
+  },
+  {
+    "avatar": "/images/management/image_hover_default_avatar.png",
+    "email": "jacky.qian@augmentum.com",
+    "id": "54c59aa2137473f4388b456f",
+    "isActivated": true,
+    "name": "Jacky",
+    "role": {},
+    "isOwner": false
+  }
+]

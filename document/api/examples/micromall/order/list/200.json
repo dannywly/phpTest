@@ -1,0 +1,74 @@
+{
+    "items": [
+        {
+            "id": "54b62e4edb4c0eae048b4574",
+            "user": {
+                "openId": "ojmADuNE2Qez1bY8smG-nDvlTjRc",
+                "channelId": "54fd0571e4b055a0030461fb",
+                "memberId": "54fd0571e4b055a0030461fb",
+                "name": "mike",
+                "type": "member"
+            },
+            "contact": {
+                "name":   "mike",
+                "phone":  "131"
+            },
+            "address": {
+                "province": "上海",
+                "city": "浦东新区",
+                "district": "张江镇",
+                "detail": ""
+            },
+            "goods": [
+                {
+                    "id": "54b62e4edb4c0eae048b4574",
+                    "name": "Dyson戴森HP01 空气净化暖风器",
+                    "total": 1,
+                    "specs": {
+                        "propertyIds": "f0b60048099d1adedfdf82f10b3d33dc,927fe99f279cd214cd7bfa218794f667",
+                        "description": "颜色分类:深紫色;型号:DC62 Motorhead Complete"
+                    },
+                    "price": 99,
+                    "pictures": [
+                        "https://dn-quncrm.qbox.me/33ad0abbc3c3305edd6da024.png",
+                        "https://dn-quncrm.qbox.me/33ad0abbc3c3305edd6da024.png"
+                    ]
+                },
+                {
+                    "id": "54b62e4edb4c0eae048b4574",
+                    "name": "泰国龙眼1kg 进口新鲜水果 鲜龙眼",
+                    "total": 2,
+                    "specs": {
+                        "propertyIds": "f0b60048099d1adedfdf82f10b3d33dc,927fe99f279cd214cd7bfa218794f667",
+                        "description": "数量: 4.5kg/箱"
+                    },
+                    "price": 99,
+                    "pictures": [
+                        "https://dn-quncrm.qbox.me/33ad0abbc3c3305edd6da024.png",
+                        "https://dn-quncrm.qbox.me/33ad0abbc3c3305edd6da024.png"
+                    ]
+                }
+            ],
+            "status": "delivered",
+            "channel": {
+                "origin": "wechat",
+                "id": "54fd0571e4b055a0030461fb",
+                "name": "群硕测试2"
+            },
+            "expectedAmount": 99,
+            "realAmount": 99,
+            "createdAt": "2016-03-14 15:52:30"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://dev.quncrm.com/api/micromall/order/list?accesstoken=3ca28e36-c949-5378-4edb-15aff6a5223d&openId=%5B%2254b5c1f8db4c0eea6e8b4569%22%5D&page=1"
+        }
+    },
+    "_meta": {
+        "totalCount": 1,
+        "pageCount": 1,
+        "currentPage": 1,
+        "perPage": 20
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "user-associate-right",
+  "type": "object",
+  "properties": {
+    "userId": {
+      "type": "string"
+    },
+    "roleId": {
+        "type": "string"
+    }
+  },
+  "required": [
+    "userId",
+    "roleId"
+  ]
+}

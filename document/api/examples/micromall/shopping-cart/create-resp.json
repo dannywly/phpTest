@@ -1,0 +1,4 @@
+{
+    "message": "OK", //OK(成功)，　Fail(库存不足)
+    "rest": 10
+}

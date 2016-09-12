@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "accesstoken": {
+      "type": "string",
+      "required": true,
+      "description": "用户token"
+    },
+    "id": {
+      "type": "string",
+      "required": true,
+      "description": "游戏ID"
+    },
+    "isPublish": {
+      "type": "boolean",
+      "required": false,
+      "description": "是否发布游戏"
+    }
+  }
+}

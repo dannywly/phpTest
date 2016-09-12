@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": "5788ad5aaf831c476a8b4575",
+            "storeId": "5784890eaf831c15118b4593",
+            "productId": "576cf2a5af831c68678b4567",
+            "shelfId": "57884fcbaf831ce0698b456b",
+            "pictures": [
+                {
+                    "url": "http://vincenthou.qiniudn.com/407aae655c7486dee5e27b5e.png",
+                    "size": "0.01",
+                    "name": "默认货架_微信_群硕测试2_8cm"
+                }
+            ],
+            "specs": {
+                "prices": [
+                    1200,
+                    200,
+                    1200,
+                    200
+                ]
+            },
+            "categoryName": "",
+            "productName": "美国小龙虾",
+            "productType": "product",
+            "sku": "1233",
+            "onSaleSku": "1468575066327630",
+            "price": 200,
+            "soldCount": 0,
+            "order": 2,
+            "createdAt": "2016-07-15 17:31",
+            "isDeleted": false
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "http://wm.com/api/store/goodss?storeId=5784890eaf831c15118b4593&shelfId=57884fcbaf831ce0698b456b&searchKey=%E7%BE%8E%E5%9B%BD&per-page=1&page=1"
+        },
+        "next": {
+            "href": "http://wm.com/api/store/goodss?storeId=5784890eaf831c15118b4593&shelfId=57884fcbaf831ce0698b456b&searchKey=%E7%BE%8E%E5%9B%BD&per-page=1&page=2"
+        },
+        "last": {
+            "href": "http://wm.com/api/store/goodss?storeId=5784890eaf831c15118b4593&shelfId=57884fcbaf831ce0698b456b&searchKey=%E7%BE%8E%E5%9B%BD&per-page=1&page=2"
+        }
+    },
+    "_meta": {
+        "totalCount": 2,
+        "pageCount": 2,
+        "currentPage": 1,
+        "perPage": 1
+    }
+}

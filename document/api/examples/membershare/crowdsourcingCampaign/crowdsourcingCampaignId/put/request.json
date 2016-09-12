@@ -1,0 +1,24 @@
+{
+    "name": "众包活动名称",
+    "shareReward": {
+        "memberCount": 5,
+        "type": "score",
+        "value": "6"
+    },
+    "limitTimes": 2,
+    "registerReward": {
+        "type": "coupon",
+        "value": "93213131232435234123"
+    },
+    "sharerTags": [
+        "tag1",
+        "tag2"
+    ],
+    "registrantTags": [
+        "tag1",
+        "tag2"
+    ],
+    "startTime": "1429000112193 毫秒时间戳",
+    "endTime": "1429000112193 毫秒时间戳",
+    "isEnabled": false
+}

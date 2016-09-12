@@ -1,0 +1,8 @@
+{
+  "message": "success",
+  "data": {
+    "date": "2016-01-11",
+    "$totalVisit": "3",
+    "$totalSession":"5",
+  }
+}

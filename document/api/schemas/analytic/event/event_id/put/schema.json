@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "eventId": {
+      "type": "string",
+      "required": false,
+      "description": "活动编码"
+    },
+    "name": {
+      "type": "string",
+      "required": false,
+      "description": "活动名称"
+    },
+    "isEnabled": {
+      "type": "boolean",
+      "required": false,
+      "description": "是否启用"
+    }
+  }
+}

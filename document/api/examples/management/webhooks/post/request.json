@@ -1,0 +1,20 @@
+{
+  "callback": {
+    "secretKey": "6z2kwwqzgoftxcaf0w",
+    "url": "https://staging.quncrm.com/api/member/create"
+  },
+  "rules": [
+    {
+      "platform": "maiscrm:store",
+      "accountId": "54fd0571e4b055a0030461fb",
+      "enabledMessages": ["subType1","subType2"],
+      "enabledEvents": ["subType1", "subType2"]
+    },
+    {
+      "platform": "WECHAT",
+      "accountId": "54fd0571e4b055a0030461ac",
+      "enabledMessages": ["subType1","subType2"],
+      "enabledEvents": ["subType1", "subType2"]
+    }
+  ]
+}

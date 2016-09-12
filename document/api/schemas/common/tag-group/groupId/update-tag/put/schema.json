@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "type": "object",
+  "properties": {
+    "oldTag": {
+      "type": "string",
+      "required": true,
+      "description": "修改前标签的名称"
+    },
+    "newTag": {
+      "type": "string",
+      "required": true,
+      "description": "新的标签的名称"
+    }
+  }
+}

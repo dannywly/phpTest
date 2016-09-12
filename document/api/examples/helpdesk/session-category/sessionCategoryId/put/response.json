@@ -1,0 +1,17 @@
+{
+    "id" : "560a52d4d4336e39365044be",
+    "name" : "产品相关",
+    "subCategories" :[
+        {
+            "id" : "560a52d4d4336e39365044be",
+            "name": "短信服务"
+        },
+        {
+            "id" : "560a52d4d4336e39365044be",
+            "name": "短信服务"
+        }
+    ],
+    "isDefault" : "false",
+    "accountId" : "560a52d4d4336e39365044be",
+    "createdAt" : "2016-03-02 10:00:00"
+}

@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "id": "552621b9e4b00231bde18bdb",
+            "user": {
+                "openId": "552621b9e4b00231bde18bdb",
+                "channelId": "oDn77jlIp-c6M6mwVn4hjKs-C-LQ"
+            },
+            "goods": {
+                "id": "552621b9e4b00231bde18bdb",
+                "name": "魅蓝note",
+                "specs": {
+                    "propertyIds": "a77403c8-df34-4ed0-67d3-9fad4b4f9db6,a77403c8-df34-4ed0-67d3-9fad4b4f9db6",
+                    "description": "数量: 4.5kg每箱"
+                },
+                "total": 3,
+                "price": 899.00,
+                "pictures":[
+                    "http://vincenthou.qiniudn.com/735e4d35ca83eb8755b865dc.jpg",
+                    "http://vincenthou.qiniudn.com/041dce7ca269b7ecbc16080d.jpg",
+                    "http://vincenthou.qiniudn.com/375506bda26f278c72d873b1.jpg"
+                ]
+            },
+            "status": "deleted" //deleted(商品被删除), soldout（商品卖光了）, valid(有效的)， not_enough(库存不足)
+        }
+    ]
+}
